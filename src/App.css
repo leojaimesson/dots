@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+}
+
+.button-controll {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+}

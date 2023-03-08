@@ -1,0 +1,7 @@
+.button__container {
+  border: 3px solid transparent;
+  background-color: black;
+  color: white;
+  height: 30px;
+  border-radius: 4px;
+}

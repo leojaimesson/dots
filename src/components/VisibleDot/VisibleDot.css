@@ -1,0 +1,7 @@
+.visible-dot__container {
+  background-color: blueviolet;
+  height: 8px;
+  width: 8px;
+  position: absolute;
+  border-radius: 50%;
+}
